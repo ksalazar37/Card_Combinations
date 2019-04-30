@@ -1,4 +1,5 @@
 # Poker.py
+# Intitialize a game of poker
 
 from random import shuffle
 
